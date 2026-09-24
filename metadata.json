@@ -1,0 +1,6 @@
+{
+  "name": "CricVault - Real-Time Cricket Scores & Schedules",
+  "description": "Live cricket scoreboard, dynamic match schedules, player stats, detailed scorecards, and standings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
